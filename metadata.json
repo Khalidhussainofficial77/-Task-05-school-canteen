@@ -1,0 +1,6 @@
+{
+  "name": "School Canteen",
+  "description": "A single-page design prototype for School Canteen with notebook aesthetic, menu browsing, order cart, and status tracking stamps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
